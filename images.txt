@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 rustdesk/rustdesk-server:latest
-apache/nifi:latest
+--platform=linux/amd64 apache/nifi:latest
